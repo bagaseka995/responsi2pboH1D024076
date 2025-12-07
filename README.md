@@ -1,8 +1,11 @@
 # Responsi 2 - Praktikum Pemrograman Berorientasi Objek
 
 **Dibuat oleh:** Bagas Eka Permana
+
 **NIM:** H1D024076
-**Shift Baru:** D   
+
+**Shift Baru:** D
+
 **Shift KRS:** B
 
 ---
@@ -52,4 +55,5 @@ Jawab Setiap file `Pengayaan.txt` di masing-masing file pengayaan, untuk pertany
 
 
 ---
+
 
