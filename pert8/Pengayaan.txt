@@ -1,0 +1,15 @@
+Setelah anda menyelesaikan kode, tolong jawab pertanyaan dibawah ini ya =
+
+
+1. Apa tujuan utama adanya interface dalam pemrograman berorientasi objek, dan bagaimana interface membantu menciptakan kontrak perilaku?
+2. Mengapa interface dapat memiliki banyak implementasi, dan apa makna konseptual dari kemampuan tersebut dalam desain sistem?
+3. Apa perbedaan mendasar antara extends dan implements dalam konteks interface, jika dilihat secara konsep tanpa melihat contoh kode?
+4. Apa alasan diperkenalkannya default method dalam interface, dan bagaimana fitur ini memengaruhi keberlangsungan (compatibility) suatu sistem yang sudah berjalan?
+5. Bagaimana konsep multiple interface memperluas fleksibilitas desain tanpa menimbulkan masalah kompleksitas yang biasa muncul pada multiple inheritance?
+
+jawaban:
+1. Tujuan utama interface adalah untuk menyediakan standar perilaku yang harus dipatuhi oleh class.
+2. Interface dapat memiliki banyak implementasi karena ia hanya mendefinisikan apa yang harus dilakukan, bukan bagaimana melakukannya. Secara konseptual, hal ini bermakna bahwa satu konsep atau peran yang sama bisa diwujudkan dalam berbagai cara yang berbeda, sehingga sistem menjadi lebih fleksibel, mudah dikembangkan, dan mudah diperluas tanpa mengubah struktur dasarnya.
+3. Secara konsep, extend berarti hubungan pewarisan sifat dari sesuatu yang sudah memiliki perilaku, sedangkan implements menunjukkan komitmen untuk memenuhi sebuah kontrak perilaku.
+4. Default method diperkenalkan agar interface dapat ditambahkan perilaku baru tanpa harus memaksa semua class lama untuk langsung diubah. itur ini menjaga kompatibilitas sistem yang sudah berjalan karena class yang sudah ada tetap bisa digunakan tanpa error, meskipun interface mengalami penambahan method baru.
+5. Konsep multiple interface memperluas fleksibilitas desain karena sebuah class dapat mengadopsi banyak peran sekaligus tanpa mewarisi konflik implementasi. interface hanya membawa kontrak perilaku sehingga tidak menimbulkan konflik logika dan tetap menjaga struktur sistem tetap sederhana.
