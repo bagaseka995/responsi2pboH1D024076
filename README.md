@@ -1,9 +1,9 @@
 # Responsi 2 - Praktikum Pemrograman Berorientasi Objek
 
-**Dibuat oleh:** [Nama Anda]  
-**NIM:** [NIM Anda]  
-**Shift Baru:** [Shift Anda]    
-**Shift KRS:** [Shift Anda]
+**Dibuat oleh:** Bagas Eka Permana
+**NIM:** H1D024076 
+**Shift Baru:** D    
+**Shift KRS:** B
 
 ---
 
@@ -49,5 +49,6 @@ Jawab Setiap file `Pengayaan.txt` di masing-masing file pengayaan, untuk pertany
 - **Error "cannot find symbol"**: Pastikan semua class sudah dikompilasi
 - **Error "class X is public, should be declared in a file named X.java"**: Periksa nama file dan nama class
 - **NoClassDefFoundError**: Pastikan menjalankan dari direktori yang benar
+
 
 ---
