@@ -6,7 +6,7 @@
 
 **Shift Baru:** D
 
-**Shift KRS:** B
+**Shift KRS:** F
 
 ---
 
@@ -55,5 +55,6 @@ Jawab Setiap file `Pengayaan.txt` di masing-masing file pengayaan, untuk pertany
 
 
 ---
+
 
 
